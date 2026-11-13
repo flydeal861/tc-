@@ -1,0 +1,6 @@
+{
+  "name": "RaquisView MPR",
+  "description": "Estación de tomografía computarizada de raquis con reconstrucción multiplanar (axial, coronal, sagital), reconstrucción 3D anatómica, herramientas de medición y análisis de estructuras óseas y patologías con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
